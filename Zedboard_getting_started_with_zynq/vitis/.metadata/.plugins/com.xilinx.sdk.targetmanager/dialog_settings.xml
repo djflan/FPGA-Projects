@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="zedboard_getting_started_with_zynq_system-bitFile" value="${project_loc:zedboard_getting_started_with_zynq}/_ide/bitstream/system_wrapper.bit"/>
+	<item key="zedboard_getting_started_with_zynq_system-bmmFile" value=""/>
+	<item key="zedboard_getting_started_with_zynq_system-target" value="Local"/>
+	<item key="zedboard_getting_started_with_zynq_system-device" value="Auto Detect"/>
+	<item key="zedboard_getting_started_with_zynq_system-partial_bit" value="false"/>
+	<item key="zedboard_getting_started_with_zynq_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="zedboard_getting_started_with_zynq_system"/>
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[]}"/>
+</section>

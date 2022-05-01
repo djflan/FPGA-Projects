@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat Apr 30 19:34:25 2022
+# Process ID: 11052
+# Current directory: F:/FPGA-Projects/Zedboard_getting_started_with_zynq/Zedboard_getting_started_with_zynq.runs/impl_1
+# Command line: vivado.exe -log system_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source system_wrapper.tcl -notrace
+# Log file: F:/FPGA-Projects/Zedboard_getting_started_with_zynq/Zedboard_getting_started_with_zynq.runs/impl_1/system_wrapper.vdi
+# Journal file: F:/FPGA-Projects/Zedboard_getting_started_with_zynq/Zedboard_getting_started_with_zynq.runs/impl_1\vivado.jou
+# Running On: DESKTOP-LRE7341, OS: Windows, CPU Frequency: 3693 MHz, CPU Physical cores: 16, Host memory: 34286 MB
+#-----------------------------------------------------------
+source system_wrapper.tcl -notrace
