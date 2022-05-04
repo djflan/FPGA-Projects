@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue May  3 21:53:29 2022
+# Process ID: 17776
+# Current directory: F:/FPGA-Projects/Dan-1-ZedBoard-Logic-Gates-And-Switches/Dan-1-ZedBoard-Logic-Gates-And-Switches.runs/impl_1
+# Command line: vivado.exe -log OrGate.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source OrGate.tcl -notrace
+# Log file: F:/FPGA-Projects/Dan-1-ZedBoard-Logic-Gates-And-Switches/Dan-1-ZedBoard-Logic-Gates-And-Switches.runs/impl_1/OrGate.vdi
+# Journal file: F:/FPGA-Projects/Dan-1-ZedBoard-Logic-Gates-And-Switches/Dan-1-ZedBoard-Logic-Gates-And-Switches.runs/impl_1\vivado.jou
+# Running On: DESKTOP-LRE7341, OS: Windows, CPU Frequency: 3693 MHz, CPU Physical cores: 16, Host memory: 34286 MB
+#-----------------------------------------------------------
+source OrGate.tcl -notrace
